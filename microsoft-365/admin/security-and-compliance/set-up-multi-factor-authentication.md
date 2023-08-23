@@ -80,10 +80,11 @@ If your subscription is new, Security defaults might already be turned on for yo
 You enable or disable security defaults from the **Properties** pane for Azure Active Directory (Azure AD) in the Azure portal.
 
 1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com) with global admin credentials.
-2. In the left nav choose **Show All** and under **Admin centers**, choose **Azure Active Directory**.
-3. In the **Azure Active Directory admin center** choose **Azure Active Directory** \> **Properties**.
-4. At the bottom of the page, choose **Manage Security defaults**.
-5. Choose **Yes** to enable security defaults or **No** to disable security defaults, and then choose **Save**.
+2. In the left nav choose **Show All** and under **Admin centers**, choose **All Admin centers**.
+3. Choose **Microsoft Entra** in **All admin centers**.
+4. In the **Microsoft Entra admin center** choose **Microsoft Entra ID (Azure AD)** \> **Properties**.
+5. At the bottom of the page, choose **Manage Security defaults**.
+6. Choose **Yes** to enable security defaults or **No** to disable security defaults, and then choose **Save**.
 
 If you have been using [baseline Conditional Access policies](/azure/active-directory/conditional-access/concept-baseline-protection), you'll be prompted to turn them off before you move to using security defaults.
 
