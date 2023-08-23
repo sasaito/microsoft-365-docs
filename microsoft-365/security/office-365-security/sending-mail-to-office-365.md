@@ -1,30 +1,36 @@
 ---
-title: "Sending mail to Office 365"
-ms.author: tracyp
-author: MSFTTracyP
+title: Sending mail to Microsoft 365
+f1.keywords: 
+  - NOCSH
+ms.author: chrisda
+author: chrisda
 manager: dansimp
-ms.date: 04/09/2016
 audience: ITPro
-ms.topic: hub-page
-ms.service: O365-seccomp
-localization_priority: Normal
-search.appverid:
-- MET150
+ms.topic: overview
+ms.localizationpriority: medium
+search.appverid: 
+  - MET150
 ms.assetid: f9d4b5b6-8f4c-44df-9b06-2f9b3058ca20
-ms.collection:
-- M365-security-compliance
-description: "These articles help external senders improve their reputation and increase their ability to deliver email to users in Office 365. They also provide some information about how you can report junk email and phishing attempts even if you aren't an Office 365 user yourself."
+ms.collection: 
+  - m365-security
+  - tier2
+ms.custom: 
+  - seo-marvel-apr2020
+description: Learn as a guest sender, how can you increase the ability to deliver email to users in Microsoft 365. Also learn how to report junk email & phishing attempts as a guest.
+ms.subservice: mdo
+ms.service: microsoft-365-security
+ms.date: 6/23/2023
 ---
 
-# Sending mail to Office 365
+# Sending mail to Microsoft 365
 
-These articles help external senders improve their reputation and increase their ability to deliver email to users in Office 365. They also provide some information about how you can report junk email and phishing attempts even if you aren't an Office 365 user yourself.
+The links in this article can help external senders improve their reputation and increase their ability to deliver email to users in Microsoft 365. They also provide information about how you can report junk email and phishing attempts, even if you aren't a Microsoft 365 customer.
 
-If you are not an Office 365 customer, but are trying to send mail to someone in who is, you are in the right place. If you are an Office 365 administrator and you need help fighting spam, this is not the right section for you. Instead, go to [Anti-spam and anti-malware protection](http://technet.microsoft.com/library/93c6c227-7442-4293-b64d-ec8f15c928db.aspx).
+If you're not a Microsoft 365 customer, and you're trying to send email to Microsoft 365, this article is for you. If you're an admin in Microsoft 365 and you need help with fighting spam, this article isn't for you. Instead, see [anti-spam](anti-spam-protection-about.md) and [anti-malware](anti-malware-protection-about.md).
 
-|**For information about...**|**See...**|
-|:-----|:-----|
-|Services we provide to administrators of email systems that are sending individual and bulk email to Office 365 customers.|[Services for non-customers sending mail to Office 365](services-for-non-customers.md)|
-|How to fix problems reaching customers in Office 365 through email. Best practices for sending bulk mail to Office 365 recipients.|[Troubleshooting mail sent to Office 365](troubleshooting-mail-sent-to-office-365.md)|
-|How Office 365 prevent junk email, including phishing and spoofing email, from being sent to our customers.|[Fighting junk email sent to Office 365](fighting-junk-email.md)|
-|How you, an administrator sending email to Office 365 customers, can avoid having email blocked by adhering to our anti-spam policies. This is the legal stuff you need to know.|[Reference: Policies, practices, and guidelines](reference-policies-practices-and-guidelines.md)|
+|For information about...|See...|
+|---|---|
+|Services provided to email admins sending mail (including bulk mail) to Microsoft 365.|[Services for non-customers sending mail to Office 365](services-for-non-customers.md)|
+|How to fix problems reaching customers at Microsoft 365 through email. Best practices for sending bulk mail to Microsoft 365 recipients.|[Troubleshooting mail sent to Office 365](mail-flow-troubleshooting.md)|
+|How Microsoft 365 prevents junk email (including phishing and spoofing) from being sent to our customers.|[Anti-spam protection in Microsoft 365](anti-spam-protection-about.md)|
+|How external organizations can avoid having email blocked by adhering to our anti-spam policies. This article contains legal stuff that you need to know.|[Reference: Policies, practices, and guidelines](reference-policies-practices-and-guidelines.md)|
